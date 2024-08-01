@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-""" A module defina a function that adds 2 floats"""
+""" A module defines a function adds two nums """
 
 
 def add(a: float, b: float) -> float:
-    """ Add A and b """
+    """ Adds two floats"""
     return a + b
